@@ -18,7 +18,7 @@ I am a software engineer focused on building resilient infrastructure and intell
 ### 🌿 Key Projects
 * **VetAI:** An AI-based diagnostic assistant for veterinary medicine (Graduation Thesis).
 * **SecureNet:** Private infrastructure projects focused on data privacy and network resilience.
-* **Mobile-Py:** Python-based Android tools for specialized data tracking.
+* **Mobile-Py:** Python-based Android tools for specialized data tracking and simplifying life.
 
 ### 🌐 Languages
 * **Russian:** Native
@@ -26,8 +26,8 @@ I am a software engineer focused on building resilient infrastructure and intell
 * **German:** B1 (Intermediate — currently learning)
 
 ### 🎸 Life & Balance
-* **Sound:** Audio production and 7-string guitar recording (Jackson / Ibanez / UA Volt 2).
-* **Vision:** Digital photography with Nikon D80 & D3200.
+* **Sound:** Audio production and 7-string guitar recording (Jackson / Ibanez / UA Volt 2 / NUX).
+* **Vision:** Digital photography with Nikon.
 * **Craft:** Technical scale modeling (1:48 fighter aircraft).
 
 ---
