@@ -1,16 +1,34 @@
-## Hi there 👋
+# Efim Romanchenko (efrom-K) 👋
 
-<!--
-**efrom-K/efrom-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps Engineer | Network Security Specialist | BioTech Researcher**
 
-Here are some ideas to get you started:
+I am a software engineer focused on building resilient infrastructure and intelligent systems. Currently finishing my degree at **Russian Biotechnological University (Rosbiotech)**, bridging the gap between Information Technology and Veterinary Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Technical Expertise
+
+* **Network Security & Infrastructure:** * Advanced traffic tunneling and protocol obfuscation (Xray/Reality, VLESS, WireGuard).
+    * Network architecture security, encryption, and resilient proxying.
+    * Home lab administration (OpenWRT, Docker, Ubuntu Server).
+* **Software Development:** * Python (FastAPI, TensorFlow, Matplotlib, Streamlit).
+    * Mobile development (Android apps via Buildozer/Kivy).
+    * Automation & Orchestration (Ansible, Portainer).
+
+### 🌿 Key Projects
+* **VetAI:** An AI-based diagnostic assistant for veterinary medicine (Graduation Thesis).
+* **SecureNet:** Private infrastructure projects focused on data privacy and network resilience.
+* **Mobile-Py:** Python-based Android tools for specialized data tracking.
+
+### 🌐 Languages
+* **Russian:** Native
+* **English:** C1 (Advanced)
+* **German:** B1 (Intermediate — currently learning)
+
+### 🎸 Life & Balance
+* **Sound:** Audio production and 7-string guitar recording (Jackson / Ibanez / UA Volt 2).
+* **Vision:** Digital photography with Nikon D80 & D3200.
+* **Craft:** Technical scale modeling (1:48 fighter aircraft).
+
+---
+*Building secure systems and searching for harmony in every line of code.*
